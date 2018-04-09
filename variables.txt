@@ -1,0 +1,24 @@
+greeting = "hello"
+
+print(greeting)
+hello
+
+
+greeting = greeting.split(" ") [0]
+
+print(greeting)
+hello
+
+print (greeting + "nick")
+hellonick
+
+greeting = greeting + "nick"
+
+print(greeting)
+hellonick
+
+number = 1
+secondnum = 2
+
+print (number * secondnum)
+2
