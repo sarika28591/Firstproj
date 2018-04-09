@@ -1,0 +1,35 @@
+
+print("Hello world")
+Hello world
+
+5
+5
+
+5 + 5
+10
+
+"5" + "5"
+'55'
+
+0.5 * 0.5
+0.25
+
+5.2 + 5.3
+10.5
+
+int("3") + int("3")
+6
+
+"sarika"
+'sarika'
+
+"hi all"
+'hi all'
+'hello'
+'hello'
+"Don't do that"
+"Don't do that"
+'she said "i want this"'
+'she said "i want this"'
+'she said "don\'t do that"'
+'she said "don\'t do that"'

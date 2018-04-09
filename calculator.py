@@ -17,6 +17,7 @@ def perform_math():
 
 
     if equation == 'quit':
+        print("good , bye")
         run = False
     else:
         equation = re.sub('[a-zA-Z,.\()" "]' , '' , equation)
@@ -34,3 +35,17 @@ while run:
 #7 * 2
 #14 / 2
 #7.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+

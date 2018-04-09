@@ -1,0 +1,46 @@
+
+print ("hi")
+hi
+
+str(5)
+'5'
+
+int ("5")
+5
+
+float ("5.6")
+5.6
+
+bool ("True")
+True
+
+bool ("False")
+True
+
+bool (False)
+False
+
+
+len("sarika")
+6
+
+
+len ([1,2,3,4])
+4
+
+sorted ([2,3,1,6])
+[1, 2, 3, 6]
+
+sorted ([2,3,1,6,1.5])
+[1, 1.5, 2, 3, 6]
+
+sorted ([2,3,1,6,1.5])
+[1, 1.5, 2, 3, 6]
+
+
+sorted (["Z" , "A" , "a"])
+['A', 'Z', 'a']
+
+
+sorted (["Z" , "A" , "a" ,"5"])
+['5', 'A', 'Z', 'a']

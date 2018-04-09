@@ -1,0 +1,17 @@
+"hello " + "nick"
+'hello nick'
+
+"this" + str(1) + "is" + "good"
+'this1isgood'
+
+"type " + str(2 + 2)
+'type 4'
+
+"hello:world"
+'hello:world'
+
+"hello:world".split(":")
+['hello', 'world']
+
+"my name is " + "sarika:sarita".split(":")[0]
+'my name is sarika'

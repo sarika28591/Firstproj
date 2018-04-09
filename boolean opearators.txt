@@ -1,0 +1,50 @@
+true
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+NameError: name 'true' is not defined
+
+True
+True
+
+false
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+NameError: name 'false' is not defined
+
+False
+False
+
+"True"
+'True'
+
+5 == 5
+True
+
+5 == 2
+False
+
+5 is 5
+True
+
+5 is not 5
+False
+
+5 is not 6
+True
+
+this is this
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+NameError: name 'this' is not defined
+
+"This" is "This"
+True
+
+True is True
+True
+
+"True" is True
+False
+
+"True" is str(True)
+True
