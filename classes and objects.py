@@ -50,3 +50,15 @@ object2 = Fruits()
 object2.my_function()
 
 
+import random
+
+class Games:
+    Game1 = [1 ,2 ,3 ,4][0]
+    Game2 = ("cricket")
+
+    def my_game(self):
+        print(self.Game1)
+
+object1 = Games()
+object1.my_game()
+
